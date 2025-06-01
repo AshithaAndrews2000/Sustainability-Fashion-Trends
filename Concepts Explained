@@ -1,0 +1,17 @@
+Pie chart
+This pie chart visually represents the distribution of fashion brands based on their carbon footprint levels, categorized into distinct groups (e.g., High, Moderate, Low emissions)
+Helps identify how many brands fall into the low, moderate, or high carbon emission categories.
+Useful for benchmarking industry performance toward sustainability goals.
+
+Correlation Matrix Heatmap
+For example, if Carbon_Emissions is highly positively correlated with Production_Volume, it suggests that scaling down mass production could significantly reduce emissions.
+If Sustainability_Score is negatively correlated with Synthetic_Material_Usage, it emphasizes material choice as a key sustainability lever.
+
+Wordcloud
+highly engaging visual that highlights the most commonly used materials in sustainable fashion based on frequency data. It's especially useful for quickly grasping which materials dominate industry conversations and practices.
+
+Correlation matrix for numeric features
+Visualizes how different numeric metrics—such as Carbon_Emissions, Water_Usage, Energy_Consumption, Sustainability_Score, Production_Volume, Cost, etc.—are related to one another in the context of sustainable fashion.
+
+Scatterplot
+Displays the geographic distribution of average product prices in sustainable fashion, helping identify where sustainable fashion is more affordable or premium-priced.Visualizes price disparities across countries, offering insights into how local economies, labor costs, and demand influence sustainable fashion pricing.
